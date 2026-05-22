@@ -1,7 +1,14 @@
+<!-- ██████╗ ██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗██╗ -->
+<!-- ██╔══██╗██║  ██║██╔══██╗██╔══██╗██╔══██╗████╗  ██║██║ -->
+<!-- ██║  ██║███████║███████║██████╔╝███████║██╔██╗ ██║██║ -->
+<!-- ██║  ██║██╔══██║██╔══██║██╔══██╗██╔══██║██║╚██╗██║██║ -->
+<!-- ██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║██║ ╚████║██║ -->
+<!-- ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝ -->
+
 <div align="center">
 
-<!-- Sleek Minimalist Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39d353&height=250&section=header&text=Dharani%20Govardhan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20·%20Full%20Stack%20Developer%20·%20UI/UX%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+<!-- Sleek Minimalist Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:39d353&height=250&section=header&text=Dharani%20Govardhan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Student%20·%20Full%20Stack%20Developer%20·%20UI/UX%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=700&lines=Hi+there%2C+I'm+Dharani+%F0%9F%91%8B;AI+%26+ML+Student+%40+SIMATS+Engineering;Building+Intelligent+%26+Minimalist+Web+Apps;Leading+Hackathon+Team+QuantumX+%E2%9A%A1;TypeScript+%7C+Python+%7C+React+Developer)](https://git.io/typing-svg)
 
@@ -16,6 +23,8 @@
 ---
 
 ## 👨‍💻 About Me
+
+```typescript
 interface Developer {
   name: string;
   education: string;
